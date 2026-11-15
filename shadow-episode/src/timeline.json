@@ -1,0 +1,254 @@
+{
+ "fps": 30,
+ "duration": 97.215,
+ "segments": [
+  {
+   "id": 0,
+   "scene": 1,
+   "speaker": "N",
+   "text": "One morning, Leo noticed something wrong with his shadow.",
+   "start": 0.5,
+   "end": 3.337
+  },
+  {
+   "id": 1,
+   "scene": 1,
+   "speaker": "N",
+   "text": "He raised his hand.",
+   "start": 3.617,
+   "end": 4.94
+  },
+  {
+   "id": 2,
+   "scene": 1,
+   "speaker": "N",
+   "text": "His shadow\u2026 yawned.",
+   "start": 5.3,
+   "end": 6.751
+  },
+  {
+   "id": 3,
+   "scene": 2,
+   "speaker": "N",
+   "text": "He waved. He jumped. He did a full victory dance.",
+   "start": 7.311,
+   "end": 10.361
+  },
+  {
+   "id": 4,
+   "scene": 2,
+   "speaker": "N",
+   "text": "The shadow just leaned against the wall like, \"Bro. It's seven a.m.\"",
+   "start": 10.641,
+   "end": 14.929
+  },
+  {
+   "id": 5,
+   "scene": 3,
+   "speaker": "N",
+   "text": "Leo tried to film it, but on camera, it acted completely normal.",
+   "start": 15.489,
+   "end": 19.393
+  },
+  {
+   "id": 6,
+   "scene": 3,
+   "speaker": "N",
+   "text": "The second he lowered the phone, it took a bow.",
+   "start": 19.713,
+   "end": 22.252
+  },
+  {
+   "id": 7,
+   "scene": 4,
+   "speaker": "N",
+   "text": "On his way to work, the shadow stopped at the bus stop and pointed at the bus.",
+   "start": 22.892,
+   "end": 27.073
+  },
+  {
+   "id": 8,
+   "scene": 4,
+   "speaker": "N",
+   "text": "Leo said,",
+   "start": 27.313,
+   "end": 28.209
+  },
+  {
+   "id": 9,
+   "scene": 4,
+   "speaker": "L",
+   "text": "Since when do shadows pick my bus?",
+   "start": 28.329,
+   "end": 30.484
+  },
+  {
+   "id": 10,
+   "scene": 4,
+   "speaker": "N",
+   "text": "And he got on.",
+   "start": 30.764,
+   "end": 31.745
+  },
+  {
+   "id": 11,
+   "scene": 5,
+   "speaker": "N",
+   "text": "Two streets later, the bus skidded into a ditch.",
+   "start": 32.225,
+   "end": 35.02
+  },
+  {
+   "id": 12,
+   "scene": 5,
+   "speaker": "N",
+   "text": "Everyone climbed out, dusty but fine.",
+   "start": 35.34,
+   "end": 37.751
+  },
+  {
+   "id": 13,
+   "scene": 6,
+   "speaker": "N",
+   "text": "And his shadow was waiting on the sidewalk. Arms folded. Tapping its foot.",
+   "start": 38.071,
+   "end": 42.444
+  },
+  {
+   "id": 14,
+   "scene": 7,
+   "speaker": "N",
+   "text": "From that day, Leo listened.",
+   "start": 43.084,
+   "end": 44.748
+  },
+  {
+   "id": 15,
+   "scene": 7,
+   "speaker": "N",
+   "text": "A man called:",
+   "start": 44.988,
+   "end": 46.012
+  },
+  {
+   "id": 16,
+   "scene": 7,
+   "speaker": "C",
+   "text": "Hi, this is your bank. Just read me the three digits on the back of your card.",
+   "start": 46.172,
+   "end": 50.78
+  },
+  {
+   "id": 17,
+   "scene": 7,
+   "speaker": "N",
+   "text": "The shadow facepalmed. Leo hung up.",
+   "start": 51.06,
+   "end": 53.364
+  },
+  {
+   "id": 18,
+   "scene": 8,
+   "speaker": "N",
+   "text": "When the shadow pointed at the door, Leo said,",
+   "start": 53.924,
+   "end": 56.356
+  },
+  {
+   "id": 19,
+   "scene": 8,
+   "speaker": "L",
+   "text": "This is my apartment!",
+   "start": 56.476,
+   "end": 58.033
+  },
+  {
+   "id": 20,
+   "scene": 8,
+   "speaker": "N",
+   "text": "The shadow dragged him out by the ankle.",
+   "start": 58.313,
+   "end": 60.447
+  },
+  {
+   "id": 21,
+   "scene": 8,
+   "speaker": "N",
+   "text": "Seconds later, the ceiling fan crashed onto his chair.",
+   "start": 60.767,
+   "end": 63.86
+  },
+  {
+   "id": 22,
+   "scene": 9,
+   "speaker": "N",
+   "text": "Soon, it was picking his outfits. It was never wrong.",
+   "start": 64.5,
+   "end": 67.401
+  },
+  {
+   "id": 23,
+   "scene": 10,
+   "speaker": "N",
+   "text": "Until one night, the light flickered.",
+   "start": 68.121,
+   "end": 70.425
+  },
+  {
+   "id": 24,
+   "scene": 10,
+   "speaker": "N",
+   "text": "The shadow turned around, pointed straight at Leo, and started shaking.",
+   "start": 70.905,
+   "end": 75.151
+  },
+  {
+   "id": 25,
+   "scene": 11,
+   "speaker": "N",
+   "text": "Leo slowly looked behind him.",
+   "start": 75.791,
+   "end": 77.988
+  },
+  {
+   "id": 26,
+   "scene": 11,
+   "speaker": "N",
+   "text": "There was a second shadow on the wall.",
+   "start": 78.708,
+   "end": 80.756
+  },
+  {
+   "id": 27,
+   "scene": 11,
+   "speaker": "N",
+   "text": "It waved. Shyly.",
+   "start": 81.396,
+   "end": 82.697
+  },
+  {
+   "id": 28,
+   "scene": 11,
+   "speaker": "N",
+   "text": "His shadow wasn't scared. It was nervous. It was introducing its girlfriend.",
+   "start": 83.257,
+   "end": 87.609
+  },
+  {
+   "id": 29,
+   "scene": 12,
+   "speaker": "N",
+   "text": "Now Leo has two shadows. And neither of them lets him eat pizza after midnight.",
+   "start": 88.249,
+   "end": 93.071
+  },
+  {
+   "id": 30,
+   "scene": 12,
+   "speaker": "N",
+   "text": "Would you trust your shadow? Comment below.",
+   "start": 93.631,
+   "end": 95.935
+  }
+ ]
+}
