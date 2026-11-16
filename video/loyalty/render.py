@@ -281,6 +281,8 @@ def dave_state(t):
         st["look"] = (0.1, 0.3); st["mouth"] = "flat"
     if S(8) <= t:
         st["look"] = (0.1, 0.3); st["mouth"] = "smirk"; st["brows"] = (-4, 16); st["tilt"] = -6
+    if S(9) <= t:
+        st["look"] = (-0.7, 0.0); st["tilt"] = 6; st["brows"] = (2, 18)
     st["amp"] = amp("D", t)
     st["blink"] = (t % 3.9) < 0.12
     return st
@@ -396,7 +398,7 @@ def draw_top(cv, t):
     cv.drawRRect(r, P(C("000000", 0.3), blur=10)); cv.drawRRect(r, P(C("ffffff")))
     for i, s in enumerate(lines):
         text(cv, s, 540, 212 + i * 60, 44, C("111111"), tf=TF_B)
-    te = E(8) + 0.6
+    te = E(9) + 0.6
     if t > te:
         a, k = pop(t, te, 0.45)
         chip(cv, 540, 400, "LOYALTY TEST: PASSED", a=a, scale=k, col="5ad17a", fg="1a1a1a", size=56)

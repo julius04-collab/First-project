@@ -12,7 +12,8 @@ L = [("H", "Babe... there's a lady trending these days. I think her name is Mia 
      ("D", "No. Show me her picture.", 1.4, 0),
      ("H", "Girl! Dave doesn't know Mia Khalifa! I told you, he's not into all that rubbish!", 1.6, 0),
      ("F", "Bro... God saved you. I was sure I'd be helping you pack your stuff tonight. And I'm tired.", 0.9, 0),
-     ("D", "You don't trust me?", 0.0, 0)]
+     ("D", "You don't trust me?", 0.7, 0),
+     ("D", "Bro... I've been training for this moment for years.", 0.0, 0)]
 t = 0.0; buf = np.zeros(SR * 45, np.float32); segs = []
 for i, (who, line, pause, pre) in enumerate(L):
     t += pre
